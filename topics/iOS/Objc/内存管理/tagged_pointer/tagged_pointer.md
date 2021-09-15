@@ -2,9 +2,9 @@ Apple 在 iPhone5s 推出64位系统时，引入了 `Tagged Pointer` 技术。
 
 ##### 引入原因？
 
-![](https://github.com/hopeubetter/hopeubetter.github.io/topics/iOS/Objc/内存管理/tagged_pointer_1.png)
+![](https://raw.githubusercontent.com/hopeubetter/hopeubetter.github.io/master/topics/iOS/Objc/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/tagged_pointer/tagged_pointer_1.png)
 
-![](https://github.com/hopeubetter/hopeubetter.github.io/topics/iOS/Objc/内存管理/tagged_pointer_2.png)
+![](https://raw.githubusercontent.com/hopeubetter/hopeubetter.github.io/master/topics/iOS/Objc/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/tagged_pointer/tagged_pointer_2.png)
 
 引入 `Tagged Pointer` ，给64位系统，节省内存、提高运行效率（读取有3倍效率，创建比以前快106倍）。
 
